@@ -1,5 +1,6 @@
-l#include "mylib.h"
+#include "mylib.h"
 #include <stdio.h>
+#include <math.h>
 
 int main(){
     float x = 3.4;
@@ -14,5 +15,7 @@ int main(){
         printf("%d is not odd.\n", a);
     }
     printf("Hello!\n");
+    
+    //
     return 0;
 }
