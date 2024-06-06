@@ -4,6 +4,7 @@
 
 int main(){
     float x = 3.4;
+
     int a = 5;
 
     float y = square(x);
